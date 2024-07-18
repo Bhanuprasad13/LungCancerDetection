@@ -1,8 +1,3 @@
-# LungCancerDetection
-
-
-
-
 # Lung Cancer Detection using Convolutional Neural Networks
 
 This repository contains code for training a convolutional neural network (CNN) model to detect lung cancer from medical images. The main implementation is in the Jupyter notebook `LungCancerDetection.ipynb`, which was developed using Google Colab.
@@ -78,8 +73,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 
-- Your Name
+- Bhanu Prasad 
 
 ---
-
-Replace `<link-to-your-ipynb-file-in-Google-Colab>` with the actual link to your notebook file in Google Colab. This structured README.md file provides essential information about your notebook, its functionality, and instructions for usage and setup in Google Colab. Adjust the details to match your specific project setup and requirements.
